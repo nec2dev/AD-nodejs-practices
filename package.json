@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-practices",
+  "version": "0.0.1",
+  "description": "a nodejs course",
+  "main": "server.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "calculator": "node maths.js",
+    "serverexpress": "node serverexpress.js"
+  },
+  "keywords": [
+    "nodejs",
+    "course",
+    "education"
+  ],
+  "author": "nec",
+  "license": "ISC"
+}
